@@ -19,3 +19,5 @@ Specialties: Data analysis, database management, forecasting, logistics optimiza
 
 📫 Let’s Connect
 Feel free to reach out for projects, ideas, or even a quick chat about all things data! 🌐
+
+Contact me at my personal email: **chabau.kevin@gmail.com**
