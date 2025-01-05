@@ -1,4 +1,4 @@
-🎯 Striving Data Analyst | Denver, CO
+🎯 Striving Data Engineer | Denver, CO
 🔍 The only constant in this life is change; and how you adapt to life, speaks for itself.
 
 🌟 About Me
