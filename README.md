@@ -6,12 +6,6 @@
 
 Nearly a decade of experience in Supply Chain Management (Oil & Gas) and Healthcare Account Management, I bring a unique perspective to data analysis. My expertise spans logistics optimization, AI-driven solutions, and customer success. Now, I’m channeling my skills into data-driven storytelling and decision-making.
 
-💻 What I’m Working On
-
-E-Commerce Database Project: Crafting a relational database and dashboard for a 90s-inspired clothing brand.
-SQL Mastery: Constantly leveling up with real-world scenarios and challenging queries.
-Power BI & Tableau Visualizations: Building dynamic dashboards to uncover trends.
-
 🤝 Let’s Collaborate
 
 I’m open to new projects and collaborations in data analytics, supply chain innovation, and customer success. Let’s turn raw data into actionable insights and impactful solutions!
