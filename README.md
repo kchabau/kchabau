@@ -13,7 +13,9 @@ I’m open to new projects and collaborations in data analytics, supply chain in
 📚 Tech Stack & Skills
 
 Languages: SQL, Python
+
 Tools: MySQL, Power BI, Tableau, Lucidchart, Excel
+
 Specialties: Data analysis, database management, forecasting, logistics optimization
 
 📫 Let’s Connect
