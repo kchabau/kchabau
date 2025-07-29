@@ -2,7 +2,7 @@
 
 # 🌟 About Me
 
-Nearly a decade of experience in Supply Chain Management (Oil & Gas) and Healthcare Account Management, I bring a unique perspective to data analysis. My expertise spans logistics optimization, AI-driven solutions, and customer success. Now, I’m channeling my skills into data-driven storytelling and decision-making.
+I like to learn and develop. Then learn some more. Often, in that order.
 
 ###  🎯 Striving Data Engineer | Denver, CO
 
@@ -17,7 +17,7 @@ I’m open to new projects and collaborations in data analytics, supply chain in
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,bash,html,git,github,docker,vscode,pycharm)](https://skillicons.dev)
 
-Specialties: Data analysis, database management, forecasting, logistics optimization
+Specialties: Data analysis, database management, forecasting, logistics optimization, dashboard development
 
 
 ## 📫 Let’s Connect
